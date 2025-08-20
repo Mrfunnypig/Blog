@@ -1,0 +1,36 @@
+{
+  "siteTitle": {
+    "default": "Mrfunnypig's blog",
+    "zh": "猪先生的博客"
+  },
+  "siteSubtitle": {
+    "default": "Everyone must face choices, and every story is destined to have an ending.",
+    "zh": "人总要面对选择，故事总要有个结尾。"
+  },
+  "siteDescription": {
+    "default": "Try to be better",
+    "zh": "努力变得更好。"
+  },
+  "resourceURL": "https://nano.dee.moe/wwwroot/",
+  "siteKeywords": {
+    "default": "static blog, markdown, github pages, blog"
+  },
+  "avatar": "assets/avatar.jpg",
+  "profileLinks": [
+    {
+      "label": "GitHub",
+      "href": "https://github.com/Mrfunnypig"
+    }
+  ],
+  "contentOutdatedDays": 180,
+  "themeMode": "user",
+  "themePack": "minimalism",
+  "themeOverride": true,
+  "cardCoverFallback": false,
+  "assetWarnings": {
+    "largeImage": {
+      "enabled": true,
+      "thresholdKB": 500
+    }
+  }
+}
